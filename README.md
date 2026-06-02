@@ -16,4 +16,4 @@ python hangman.py
 - While loops
 - Random module
 - Functions# CodeAlpha_HangmanGame
-Text-based Hangman game built with Python. CodeAlpha Internship Task 1.
+
