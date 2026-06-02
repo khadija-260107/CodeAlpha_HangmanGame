@@ -15,5 +15,5 @@ python hangman.py
 - Lists and strings
 - While loops
 - Random module
-- Functions# CodeAlpha_HangmanGame
+- Functions
 
